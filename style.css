@@ -64,7 +64,7 @@ html{
 }
 
 .background{
-    background: #00B1D2FF url('../img/bg.jpg');
+    background: #FFBA38 url('../img/bg.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
@@ -77,11 +77,13 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
-    color:#FDDB27FF;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    max-width: 50%;
+    color:#5200C6;
+    font-family: 'Baloo Bhai 2', cursive;
+    max-width: 70%;
     margin: auto;
-        height: 80%;
+    height: 80%;
+    font-size:100px ;
+
 }
 
 .firstHalf{
@@ -114,10 +116,10 @@ html{
 .btn{
     padding: 8px 20px;
     margin: 7px 3px;
-    border: 2px solid white;
+    border: 2px solid #5200C6 ;
     border-radius: 8px; 
     background: none;
-    color: white;
+    color: #5200C6;
     cursor: pointer;
     font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
@@ -199,7 +201,7 @@ html{
    font-family: 'Ubuntu', sans-serif; 
    display: flex;
    justify-content: center;
-   color: white;
+   color: #5200C6;
    
 }
 
